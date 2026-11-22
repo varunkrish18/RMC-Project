@@ -1,0 +1,9 @@
+/*# sourceMappingURL=../maps/style.css.map */
+@media only screen and (max-width: 414px) {
+    #spacing {
+      padding: 2em;
+    } 
+  .footer-style-1 .footer-top {
+        padding:2em;
+    } 
+}
